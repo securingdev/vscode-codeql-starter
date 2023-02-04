@@ -1,0 +1,12 @@
+---
+lockVersion: 1.0.0
+dependencies:
+  codeql/ruby-all:
+    version: 0.5.1
+  codeql/regex:
+    version: 0.0.5
+  codeql/ssa:
+    version: 0.0.9
+  codeql/tutorial:
+    version: 0.0.2
+compiled: false
